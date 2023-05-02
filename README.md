@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gyamposudodzi
-- 👀 I’m interested in THINGS I DONT EVEN KNOW
-- 🌱 I’m currently learning CS AND SOFTWARE ENGINEERING
-- 💞️ I’m looking to collaborate on N/A
+- 👀 I’m interested in Anything Tech Related 
+- 🌱 I’m currently learning CS@Kibo AND SOFTWARE ENGINEERING@ALX
+- 💞️ I’m looking to collaborate on Projects that meets my level of skill right now
 - 📫 How to reach me (GYAMPOSU@GMAIL.COM)
 
 <!---
