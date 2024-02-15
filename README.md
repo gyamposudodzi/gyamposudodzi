@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gyamposudodzi
-- 👀 I’m interested in Anything Tech Related 
+- 👀 I’m interested in Backend Web/Software Engineering
 - 🌱 I’m currently learning CS@Kibo AND SOFTWARE ENGINEERING@ALX
 - 💞️ I’m looking to collaborate on Projects that meets my level of skill right now
 - 📫 How to reach me (GYAMPOSU@GMAIL.COM)
