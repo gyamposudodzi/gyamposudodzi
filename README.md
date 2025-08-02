@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&width=800&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;AI+Engineer+%7C+Trader+%7C+Dev+for+Africa.;I+build+intelligent+systems+and+automation+tools.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&width=800&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;Software+Engineer+%7C+Trader+%7C+Dev+for+Africa.;I+build+intelligent+systems+and+automation+tools.">
 </div>
 
 <br />
@@ -8,7 +8,7 @@
 <!-- Short Bio -->
 ### 🧠 About Me
 
-- 🔭 Currently building **The Lazarus Project**: a smart AI-powered live forex trading system using MT5 & XGBoost  
+- 🔭 Currently building **The Lazarus Project**: a smart AI-powered live forex trading system using MT5 & XGBoost for and me and my friend.  
 - 🌱 Learning professional **forex strategies**, **AI in trading**, and **risk management systems**  
 - ⚡ On a mission to solve **real-world problems in Africa** through smart technology  
 - 💬 Ask me about `ML`, `Forex`, `React`, `Firebase`, `MT5`, and turning bold ideas into reality  
@@ -20,7 +20,7 @@
 <!-- Tech Stack -->
 ### 🛠️ My Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,firebase,html,css,tailwind,git,github,linux,postgresql,mongodb,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,react,js,firebase,html,css,flutter,git,github,linux,postgresql,mongodb,postman,c&perline=8" />
 </p>
 
 ---
