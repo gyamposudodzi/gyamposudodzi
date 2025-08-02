@@ -55,7 +55,7 @@ Built in: `Firebase`, `modular design`, `real-time Firestore communication`
 ### 🧑‍💻 Languages I’ve Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyamposudodzi&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyamposudodzi&layout=compact&theme=blue-green" />
 </p>
 
 ---
