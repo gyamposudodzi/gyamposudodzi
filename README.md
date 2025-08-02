@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=46&pause=1000&center=true&width=800&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;Software+Engineer+%7C+Trader+%7C+Dev+For+Ease.;I+build+intelligent+systems+and+automation+tools.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&width=800&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;Software+Engineer+%7C+Trader+%7C+Dev+For+Ease.;I+build+intelligent+systems+and+automation+tools.">
 </div>
 
 <br />
