@@ -56,8 +56,9 @@ Built in: `Firebase`, `modular design`, `real-time Firestore communication`
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gyamposudodzi&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyamposudodzi&theme=react-dark&area=true&hide_border=true" />
 </p>
+
 
 ---
 
