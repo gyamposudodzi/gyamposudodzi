@@ -49,7 +49,7 @@ Built in: `Firebase`, `modular design`, `real-time Firestore communication`
   <img src="https://github-readme-stats.vercel.app/api?username=gyamposudodzi&theme=radical&show_icons=true&hide_border=false" height="180" />
   <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gyamposudodzi&theme=blue-green)](https://git.io/streak-stats)" height="180"/>
 </p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gyamposudodzi&theme=blue-green)](https://git.io/streak-stats)
 ---
 
 
