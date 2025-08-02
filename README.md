@@ -46,10 +46,9 @@ Built in: `Firebase`, `modular design`, `real-time Firestore communication`
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyamposudodzi&theme=radical&show_icons=true&hide_border=false" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyamposudodzi&theme=radical&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gyamposudodzi&theme=blue-green&show_icons=true&hide_border=false" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyamposudodzi&theme=blue-greenl&hide_border=false" height="180"/>
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gyamposudodzi&theme=blue-green)](https://git.io/streak-stats)
 ---
 
 
