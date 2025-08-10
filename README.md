@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&weight=500&width=900&height=30&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;Software+Engineer+%7C+Trader+%7C+Dev+For+Ease.;I+build+intelligent+systems+and+automation+tools.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&weight=500&width=900&height=40&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;Software+Engineer+%7C+Trader+%7C+Dev+For+Ease.;I+build+intelligent+systems+and+automation+tools.">
 </div>
 
 <br />
@@ -8,7 +8,7 @@
 <!-- Short Bio -->
 ### 🧠 About Me
 
-- 🔭 Currently building **The lazarus project**: Smart AI-powered live forex trading system using MT5 & XGBoost, ChatGpt and python for and me and my friends, You can try it when it's done tho.  Also working on **FLUC** a web app that gives voice to african writer to share their views and stories unhindered.
+- 🔭 Currently building **The lazarus project**: Smart AI-powered live forex trading system using MT5 & XGBoost, ChatGPT and python for and me and my friends, You can try it when it's done tho.  Also working on **FLUC** a web app that gives voice to african writer to share their views and stories unhindered.
 - 🌱 Learning professional **forex strategies**, **AI in trading**, and **risk management systems** and How Smart Automations can help in Trading.
 - ⚡ On a mission to solve **real-world problems** through smart technology and intelligent systems.
 - 💬 Ask me about anything tech, trading and turning bold ideas to reality.
