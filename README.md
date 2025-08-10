@@ -41,16 +41,6 @@ Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis`
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyamposudodzi&theme=blue-green&show_icons=true&hide_border=false" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyamposudodzi&theme=blue-green&hide_border=false" height="180"/>
-</p>
----
-
-
 ### 🧑‍💻 Languages I’ve Used
 
 <p align="center">
@@ -58,17 +48,6 @@ Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis`
 </p>
 
 ---
-
-<!-- Activity Graph -->
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyamposudodzi&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-
----
-
 <!-- Contact -->
 ### 📬 Connect With Me
 
@@ -78,15 +57,6 @@ Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis`
 </p>
 
 ---
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-
-
-
 <!---
 gyamposudodzi/gyamposudodzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
