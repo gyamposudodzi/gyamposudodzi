@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&multiline=true&weight=500&width=900&height=120&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;Software+Engineer+%7C+Trader+%7C+Dev+For+Ease.;I+build+intelligent+systems+and+automation+tools.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&weight=500&width=900&height=30&lines=Hi+there+👋,+I'm+Gyamposu+Dodzi.;Software+Engineer+%7C+Trader+%7C+Dev+For+Ease.;I+build+intelligent+systems+and+automation+tools.">
 </div>
 
 <br />
@@ -8,19 +8,19 @@
 <!-- Short Bio -->
 ### 🧠 About Me
 
-- 🔭 Currently building **The Lazarus Project**: a smart AI-powered live forex trading system using MT5 & XGBoost for and me and my friend.  
-- 🌱 Learning professional **forex strategies**, **AI in trading**, and **risk management systems**  
-- ⚡ On a mission to solve **real-world problems in Africa** through smart technology  
-- 💬 Ask me about `ML`, `Forex`, `React`, `Firebase`, `MT5`, and turning bold ideas into reality  
-- 🧩 Passionate about modular system design and automating boring tasks  
-- 📍 Based in Ghana | 🌍 Building global-first tools with local impact
+- 🔭 Currently building **The lazarus project**: Smart AI-powered live forex trading system using MT5 & XGBoost, ChatGpt and python for and me and my friends, You can try it when it's done tho.  Also working on **FLUC** a web app that gives voice to african writer to share their views and stories unhindered.
+- 🌱 Learning professional **forex strategies**, **AI in trading**, and **risk management systems** and How Smart Automations can help in Trading.
+- ⚡ On a mission to solve **real-world problems** through smart technology and intelligent systems.
+- 💬 Ask me about anything tech, trading and turning bold ideas to reality.
+- 🧩 Passionate about modular system design and automating boring tasks. The later is very important.  
+- 📍 Based in Ghana | 🌍 Building global-first tools with personal impact
 
 ---
 
 <!-- Tech Stack -->
-### 🛠️ My Tech Toolbox
+### 🛠️ My Tech Toolbox [I might have come accross some just once😭, Please Don't judge me🥹].
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,firebase,html,css,flutter,git,github,linux,postgresql,mongodb,postman,c&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,react,js,django,flask,sqlite,Docker,Kubernetes,gcp,firebase,html,css,flutter,git,github,linux,postgresql,mongodb,postman,nodejs,c&perline=8" />
 </p>
 
 ---
@@ -28,17 +28,16 @@
 <!-- Projects -->
 ### 🚀 Featured Projects
 
+#### 📰 **Fluc**
+> A powerful news webapp for writers to share their story in their own way: `Js`, `Firebase`, `React`,
+`Google cloud`.
+
 #### 🧠 **The Lazarus Project**
-> AI Trading Bot with real-time trade execution, dynamic SL/TP, risk control & chart pattern recognition  
+> AI Powered Trading Bot with real-time trade execution, dynamic SL/TP, risk control & chart pattern recognition  
 Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis`
 
-#### 🌱 **Green Farm Ghana**
-> Revolutionizing food distribution in Ghana using smart logistics and local farming tech  
-Focus: Distribution chains, smart packaging, food inflation solutions
-
-#### 🏨 **Modular Hotel & Restaurant ERP**
-> Build your own system — plug in features like analytics, inventory, chat, reception, and more  
-Built in: `Firebase`, `modular design`, `real-time Firestore communication`
+#### 🌱 **Pandora's Box**
+> It's a collection of personal packages and tools that I've built to use myself. 
 
 ---
 
