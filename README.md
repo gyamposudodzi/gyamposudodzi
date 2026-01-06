@@ -17,14 +17,6 @@
 
 ---
 
-<!-- Tech Stack -->
-### 🛠️ My Tech Toolbox [I might have come accross some just once😭, Please Don't judge me🥹].
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,django,flask,sqlite,docker,kubernetes,gcp,firebase,html,css,flutter,git,github,linux,postgresql,mongodb,postman,nodejs,c&perline=7" />
-</p>
-
----
-
 <!-- Projects -->
 ### 🚀 Featured Projects
 
