@@ -33,9 +33,13 @@ Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis`
 
 ---
 
-### 🧑‍💻 Languages & Tech Stack
+### 🧑‍💻 Languages I’ve Used
 
-![Metrics](https://metrics.lecoq.io/gyamposudodzi?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyamposudodzi&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyamposudodzi&theme=github" />
+</p>
+
 
 
 ---
