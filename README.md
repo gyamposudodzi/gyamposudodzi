@@ -33,11 +33,10 @@ Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis`
 
 ---
 
-### 🧑‍💻 Languages I’ve Used
+### 🧑‍💻 Languages & Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyamposudodzi&layout=compact&theme=blue-green" />
-</p>
+![Metrics](https://metrics.lecoq.io/gyamposudodzi?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%)
+
 
 ---
 <!-- Contact -->
