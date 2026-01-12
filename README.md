@@ -8,11 +8,11 @@
 <!-- Short Bio -->
 ### 🧠 About Me
 
-- 🔭 Currently building **The lazarus project**: Smart AI-powered live forex trading system using MT5 & XGBoost, ChatGPT and python for and me and my friends, You can try it when it's done tho.  Also working on **FLUC** a web app that gives voice to african writer to share their views and stories unhindered.
+- 🔭 Currently building **The lazarus project**: Smart AI-powered live forex trading system using MT5 & XGBoost, ChatGPT, and Python for my friends and me. You can try it when it's done, tho.  Also working on **FLUC**, a web app that gives a voice to African writer to share their views and stories unhindered.
 - 🌱 Learning professional **forex strategies**, **AI in trading**, and **risk management systems** and How Smart Automations can help in Trading.
 - ⚡ On a mission to solve **real-world problems** through smart technology and intelligent systems.
-- 💬 Ask me about anything tech, trading and turning bold ideas to reality.
-- 🧩 Passionate about modular system design and automating boring tasks. The later is very important.  
+- 💬 Ask me about anything tech, trading, and turning bold ideas into reality.
+- 🧩 Passionate about modular system design and automating boring tasks. The latter is very important.  
 - 📍 Based in Ghana | 🌍 Building global-first tools with personal impact
 
 ---
@@ -22,24 +22,14 @@
 
 #### 📰 **Fluc**
 > A powerful news webapp for writers to share their story in their own way: `Js`, `Firebase`, `React`,
-`Google cloud`.
+`Google Cloud`.
 
 #### 🧠 **The Lazarus Project**
-> AI Powered Trading Bot with real-time trade execution, dynamic SL/TP, risk control & chart pattern recognition  
-Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis`
+> AI-Powered Trading Bot with real-time trade execution, dynamic SL/TP, risk control & chart pattern recognition  
+Tech: `XGBoost`, `MT5`, `pandas`, `multi-timeframe analysis.`
 
 #### 🌱 **Pandora's Box**
 > It's a collection of personal packages and tools that I've built to use myself. 
-
----
-
-### 🧑‍💻 Languages I’ve Used
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyamposudodzi&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyamposudodzi&theme=github" />
-</p>
-
 
 
 ---
