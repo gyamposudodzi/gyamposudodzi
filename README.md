@@ -1,5 +1,5 @@
 # 🚀 Gyamposu Dodzi
-### Software Engineer | Quantitative Developer | System Architect
+### Software Engineer | Quantitative Developer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Algorithmic_Trading_%26_Web3-FFD700?style=for-the-badge&logoColor=black" />
