@@ -27,7 +27,7 @@ I specialize in building **intelligent automation** and **high-frequency trading
 
 ### 🌐 Platforms & Toolkits
 * **FLUC:** A Web3-spirited news platform giving African writers an unhindered voice. Built with `React`, `Firebase`, and `Google Cloud`.
-* **Pandora’s Box:** `Python`, `PHP`, and `JS` packages built to accelerate development 
+* **Pandora’s Box:** `PythS` packages built to accelerate development 
 
 ---
 
